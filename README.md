@@ -20,8 +20,8 @@ Implement content-addressable storage using SHA-256 hashing.
 - Used atomic file writing
 
 ## Output
-![Screenshot 1A](images/phase1a.png)  
-![Screenshot 1B](images/phase1b.png)
+![Screenshot 1A](screenshots/1A.png)  
+![Screenshot 1B](screenshots/1B.png)
 
 ---
 
@@ -36,8 +36,8 @@ Represent directory structure using tree objects.
 - Ensured deterministic serialization
 
 ## Output
-![Screenshot 2A](images/phase2a.png)  
-![Screenshot 2B](images/phase2b.png)
+![Screenshot 2A](screenshots/2A.png)  
+![Screenshot 2B](screenshots/2B.png)
 
 ---
 
@@ -51,8 +51,8 @@ Implement staging area for tracking file changes.
 - Stored file metadata and hashes
 
 ## Output
-![Screenshot 3A](images/phase3a.png)  
-![Screenshot 3B](images/phase3b.png)
+![Screenshot 3A](screenshots/3A.png)  
+![Screenshot 3B](screenshots/3B.png)
 
 ---
 
@@ -67,15 +67,16 @@ Implement commit creation and history tracking.
 - Updated HEAD pointer
 
 ## Output
-![Screenshot 4A](images/phase4a.png)  
-![Screenshot 4B](images/phase4b.png)  
-![Screenshot 4C](images/phase4c.png)
+![Screenshot 4A](screenshots/4A.png)  
+![Screenshot 4B](screenshots/4B.png)  
+![Screenshot 4C](screenshots/4C.png)
 
 ---
 
 # Integration Test
 
-![Integration](images/integration.png)
+![Integration1](screenshots/testint1.png)
+![Integration2](screenshots/testint2.png)
 
 ---
 
